@@ -1,5 +1,5 @@
 # 💫 About Me:
-//Ethical Hackers<br>Cyber ​​Security Specialist in the Morning<br>A Hacker at Night:<br>conscience is a legal trend it is an illegal anarchist revolution<br>Alone!
+
 
 
 # 💻 Tech Stack:
