@@ -7,7 +7,8 @@
 
 - 🔭 I’m currently working on [Game Development](https://www.linkedin.com/company/arcane-sky-games/?viewAsMember=true)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3> 
+Discord ig6g
 <p align="left">
 </p>
 
